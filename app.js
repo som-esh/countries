@@ -61,8 +61,8 @@ function showDetail() {
     let content = `
     <h1>Blue</h1>
     `
-    document.getElementsByClassName("econdary_display_container").innerHTML = content;   
-    //window.location.href="detail.htm";
+    document.getElementsByClassName("secondary_display_container").innerHTML = content;   
+    window.location.href="detail.htm";
 }
 
 
